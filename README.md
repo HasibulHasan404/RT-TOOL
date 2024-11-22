@@ -1,31 +1,51 @@
-# RT-TOOL
+# RT-TOOL Advanced
 
-[Brief description of what your tool does]
+A powerful Discord account management tool with a sleek console interface.
+
+## ⚠️ DISCLAIMER
+
+**WARNING**: This tool comes with no warranty or guarantees. Using this tool may violate Discord's Terms of Service. The author takes no responsibility for any consequences of using this tool, including but not limited to account bans or suspensions.
+
+**Use at your own risk!**
 
 ## Features
 
-- [List key features]
-- [Feature 2]
-- [Feature 3]
+### Account Management
 
-## Requirements
+- View detailed account information
+- Real-time status updates
+- Account status management
 
-- .NET 6.0 or .NET 8.0
+### Server Tools
+
+- Server information viewer
+- Member count tracker
+- Channel list viewer
+- Role list viewer
+
+### Message Tools
+
+- Send direct messages
+- View message history
+- Channel messaging
+
+### Settings
+
+- Customizable theme colors
+- Toggle animations
+- Data management
 
 ## Installation
 
 1. Clone the repository
-2. Build the solution using Visual Studio or dotnet CLI
-3. Run the application
+2. Make sure you have .NET 6.0 SDK installed
+3. Build and run:
+   bash
+   dotnet build
+   dotnet run
 
-## Usage
+## Credits
 
-[Explain how to use your tool with examples]
+Created by: Hasan
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[Choose your license type]
+لا إله إلا الله محمد رسول الله
