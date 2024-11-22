@@ -1,14 +1,6 @@
 # Build results
 [Dd]ebug/
-[Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
@@ -28,23 +20,9 @@ qr.png
 # Visual Studio Code
 .vscode/
 
-# ReSharper
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# NuGet Packages
-*.nupkg
-*.snupkg
-**/[Pp]ackages/*
-!**/[Pp]ackages/build/
-
 # Windows
 Thumbs.db
-ehthumbs.db
 Desktop.ini
 
 # macOS
 .DS_Store
-.AppleDouble
-.LSOverride
